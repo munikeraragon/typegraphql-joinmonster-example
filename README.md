@@ -1,6 +1,6 @@
 # Typegraphql and JoinMonster example
 
-This repository demonstrates how to integrate [JoinMonster](https://dev.to/) and [Typegraphql](https://typegraphql). The SQL schema and relationship metadata is embedded in Typegraphql Entities and Resolvers, which is used by JoinMonster to perform query planning between GraphQL and SQL.
+This repository demonstrates how to integrate [JoinMonster](https://dev.to/) and [Typegraphql](https://typegraphql). The SQL schema and relationship metadata is embedded in Typegraphql Entities and Resolvers, which are used by JoinMonster to perform query planning between GraphQL and SQL.
 
 Quick Start
 
